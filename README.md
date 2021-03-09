@@ -1,5 +1,4 @@
 # bootcamp-cc
 CRUD Sederhana menggunakan PHP + Bootstrap<br>
-<br>
-Username : admin
+Username : admin<br>
 Password : admin
