@@ -1,6 +1,5 @@
 # bootcamp-cc
-Belajar github bersama sama<br>
-update 17:18<br>
-test git
-
-test pull
+CRUD Sederhana menggunakan PHP + Bootstrap<br>
+<br>
+Username : admin
+Password : admin
